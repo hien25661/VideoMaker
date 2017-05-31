@@ -1,0 +1,2 @@
+include ':app', ':paper-onboarding_new'
+project(':paper-onboarding_new').projectDir = new File('paper-onboarding')
